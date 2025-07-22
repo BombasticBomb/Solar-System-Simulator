@@ -6,5 +6,12 @@ To get started, execute the 'run.sh' file if you're in MacOS or Linux (MacOS use
 The only dependencies required is Ursina and can be installed by running "pip install ursina".
 
 
-Enjoy!
+Controls:
+Use your mouse to look around.
+Press Space to pause and unpause simulation.
+Use arrow keys to increase and decrease speed of the simulation.
+And use WASD while pressing Right-Click to move around.
+
+
+Enjoy! And don't forget to email me code suggestions!
 
